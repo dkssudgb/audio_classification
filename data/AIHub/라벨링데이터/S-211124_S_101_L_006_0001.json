@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211124_S_101_L_006",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "License",
+        "BitRate(kbps)": 128,
+        "CollectionType": "L",
+        "RecDateTime": "2021-11-24 12:03:00",
+        "RecDataLength(sec)": 18,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Inner",
+        "DistanceType": "Far",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211124_S_101_L_006_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 27
+    },
+    "LabelDataInfo": {
+        "Path": "S-211124_S_101_L_006",
+        "LabelID": "S-211124_S_101_L_006_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "01",
+        "Desc": "경찰차 사이렌 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                9.35,
+                27.71
+            ]
+        ]
+    }
+}

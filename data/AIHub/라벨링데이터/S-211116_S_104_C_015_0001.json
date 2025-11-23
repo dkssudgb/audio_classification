@@ -1,0 +1,67 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211116_S_104_C_015",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-16 10:55:13",
+        "RecDataLength(sec)": 29,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211116_S_104_C_015_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 38
+    },
+    "LabelDataInfo": {
+        "Path": "S-211116_S_104_C_015",
+        "LabelID": "S-211116_S_104_C_015_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "04",
+        "Desc": "자동차 경적 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 7,
+        "Segmentations": [
+            [
+                16.47,
+                17.15
+            ],
+            [
+                17.9,
+                19.42
+            ],
+            [
+                20.75,
+                21.78
+            ],
+            [
+                23.55,
+                25.21
+            ],
+            [
+                27.72,
+                28.58
+            ],
+            [
+                31.85,
+                33.08
+            ],
+            [
+                35.4,
+                36.33
+            ]
+        ]
+    }
+}

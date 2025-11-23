@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211126_S_102_C_045",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-26 22:16:59",
+        "RecDataLength(sec)": 27,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Night",
+        "PlaceType": "Inner",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211126_S_102_C_045_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 36
+    },
+    "LabelDataInfo": {
+        "Path": "S-211126_S_102_C_045",
+        "LabelID": "S-211126_S_102_C_045_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "02",
+        "Desc": "도난경보 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                8.96,
+                36.42
+            ]
+        ]
+    }
+}

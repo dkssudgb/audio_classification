@@ -1,0 +1,55 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211107_S_103_C_010",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-07 19:05:36",
+        "RecDataLength(sec)": 24,
+        "Season": "Fall",
+        "Weather": "Cloudy",
+        "TimeZone": "Night",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211107_S_103_C_010_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 33
+    },
+    "LabelDataInfo": {
+        "Path": "S-211107_S_103_C_010",
+        "LabelID": "S-211107_S_103_C_010_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "03",
+        "Desc": "화재 경보 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 4,
+        "Segmentations": [
+            [
+                9.0,
+                14.18
+            ],
+            [
+                14.66,
+                18.55
+            ],
+            [
+                18.93,
+                30.77
+            ],
+            [
+                31.67,
+                33.12
+            ]
+        ]
+    }
+}

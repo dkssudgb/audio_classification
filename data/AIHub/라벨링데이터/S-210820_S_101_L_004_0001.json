@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-210820_S_101_L_004",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "License",
+        "BitRate(kbps)": 128,
+        "CollectionType": "L",
+        "RecDateTime": "2021-08-20 10:45:59",
+        "RecDataLength(sec)": 59,
+        "Season": "Summer",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-210820_S_101_L_004_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 68
+    },
+    "LabelDataInfo": {
+        "Path": "S-210820_S_101_L_004",
+        "LabelID": "S-210820_S_101_L_004_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "01",
+        "Desc": "경찰차 사이렌",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                9.35,
+                68.47
+            ]
+        ]
+    }
+}

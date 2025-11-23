@@ -1,0 +1,91 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211115_S_104_C_032",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-15 18:05:39",
+        "RecDataLength(sec)": 29,
+        "Season": "Fall",
+        "Weather": "Cloudy",
+        "TimeZone": "Night",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211115_S_104_C_032_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 39
+    },
+    "LabelDataInfo": {
+        "Path": "S-211115_S_104_C_032",
+        "LabelID": "S-211115_S_104_C_032_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "04",
+        "Desc": "자동차 경적 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 13,
+        "Segmentations": [
+            [
+                10.2,
+                11.64
+            ],
+            [
+                12.4,
+                13.92
+            ],
+            [
+                14.72,
+                16.34
+            ],
+            [
+                17.14,
+                18.69
+            ],
+            [
+                19.34,
+                20.83
+            ],
+            [
+                21.44,
+                23.32
+            ],
+            [
+                23.88,
+                25.34
+            ],
+            [
+                26.06,
+                27.73
+            ],
+            [
+                28.29,
+                29.96
+            ],
+            [
+                30.49,
+                32.45
+            ],
+            [
+                33.07,
+                34.61
+            ],
+            [
+                35.17,
+                36.7
+            ],
+            [
+                37.16,
+                38.87
+            ]
+        ]
+    }
+}

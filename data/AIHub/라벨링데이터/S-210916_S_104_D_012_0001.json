@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-210916_S_104_D_012",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "PCM-A10",
+        "BitRate(kbps)": 128,
+        "CollectionType": "D",
+        "RecDateTime": "2021-09-16 08:01:00",
+        "RecDataLength(sec)": 5,
+        "Season": "Fall",
+        "Weather": "Cloudy",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Far",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-210916_S_104_D_012_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 16
+    },
+    "LabelDataInfo": {
+        "Path": "S-210916_S_104_D_012",
+        "LabelID": "S-210916_S_104_D_012_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "04",
+        "Desc": "민방위훈련 사이렌 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                11.86,
+                16.45
+            ]
+        ]
+    }
+}

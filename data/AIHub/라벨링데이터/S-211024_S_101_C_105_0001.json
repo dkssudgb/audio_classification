@@ -1,0 +1,79 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211024_S_101_C_105",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-10-24 18:25:33",
+        "RecDataLength(sec)": 14,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Night",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211024_S_101_C_105_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 25
+    },
+    "LabelDataInfo": {
+        "Path": "S-211024_S_101_C_105",
+        "LabelID": "S-211024_S_101_C_105_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "01",
+        "Desc": "응급경보 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 10,
+        "Segmentations": [
+            [
+                10.08,
+                11.56
+            ],
+            [
+                11.96,
+                13.24
+            ],
+            [
+                13.6,
+                14.83
+            ],
+            [
+                15.23,
+                16.38
+            ],
+            [
+                16.88,
+                18.14
+            ],
+            [
+                18.52,
+                19.7
+            ],
+            [
+                20.09,
+                21.15
+            ],
+            [
+                21.63,
+                22.71
+            ],
+            [
+                23.06,
+                24.35
+            ],
+            [
+                24.75,
+                25.01
+            ]
+        ]
+    }
+}

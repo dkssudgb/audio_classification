@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211106_S_104_C_002",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-06 14:21:04",
+        "RecDataLength(sec)": 23,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211106_S_104_C_002_0002",
+        "FileExtension": "mp3",
+        "NoOfClip": 2,
+        "ClipDataLength(sec)": 32
+    },
+    "LabelDataInfo": {
+        "Path": "S-211106_S_104_C_002",
+        "LabelID": "S-211106_S_104_C_002_0002",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "04",
+        "Desc": "비상경보 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                9.09,
+                32.6
+            ]
+        ]
+    }
+}

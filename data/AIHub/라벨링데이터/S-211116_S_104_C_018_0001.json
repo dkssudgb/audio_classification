@@ -1,0 +1,87 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211116_S_104_C_018",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-16 10:50:10",
+        "RecDataLength(sec)": 29,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Near",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211116_S_104_C_018_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 39
+    },
+    "LabelDataInfo": {
+        "Path": "S-211116_S_104_C_018",
+        "LabelID": "S-211116_S_104_C_018_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "04",
+        "Desc": "자동차 경적 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 12,
+        "Segmentations": [
+            [
+                10.39,
+                11.0
+            ],
+            [
+                11.93,
+                12.41
+            ],
+            [
+                12.61,
+                13.09
+            ],
+            [
+                14.2,
+                14.8
+            ],
+            [
+                17.76,
+                18.55
+            ],
+            [
+                19.41,
+                20.4
+            ],
+            [
+                22.89,
+                24.42
+            ],
+            [
+                24.93,
+                26.59
+            ],
+            [
+                32.17,
+                32.91
+            ],
+            [
+                33.76,
+                34.07
+            ],
+            [
+                34.39,
+                34.95
+            ],
+            [
+                38.68,
+                38.91
+            ]
+        ]
+    }
+}

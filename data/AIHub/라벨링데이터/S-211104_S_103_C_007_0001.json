@@ -1,0 +1,51 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211104_S_103_C_007",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "Android",
+        "BitRate(kbps)": 128,
+        "CollectionType": "C",
+        "RecDateTime": "2021-11-04 21:49:30",
+        "RecDataLength(sec)": 15,
+        "Season": "Fall",
+        "Weather": "Cloudy",
+        "TimeZone": "Night",
+        "PlaceType": "Inner",
+        "DistanceType": "Close",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211104_S_103_C_007_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 24
+    },
+    "LabelDataInfo": {
+        "Path": "S-211104_S_103_C_007",
+        "LabelID": "S-211104_S_103_C_007_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "03",
+        "Desc": "가스누설 화재경보 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 3,
+        "Segmentations": [
+            [
+                10.59,
+                11.61
+            ],
+            [
+                15.65,
+                16.57
+            ],
+            [
+                22.14,
+                23.12
+            ]
+        ]
+    }
+}

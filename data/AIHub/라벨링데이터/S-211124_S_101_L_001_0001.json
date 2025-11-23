@@ -1,0 +1,43 @@
+{
+    "RawDataInfo": {
+        "RawDataId": "S-211124_S_101_L_001",
+        "Copyrighter": "㈜미디어그룹사람과숲",
+        "SampleRate(Hz)": 44100,
+        "Channel": 1,
+        "BitDepth(bit)": 16,
+        "RecordingDevice": "License",
+        "BitRate(kbps)": 128,
+        "CollectionType": "L",
+        "RecDateTime": "2021-11-24 16:38:00",
+        "RecDataLength(sec)": 29,
+        "Season": "Fall",
+        "Weather": "Sunny",
+        "TimeZone": "Day",
+        "PlaceType": "Outer",
+        "DistanceType": "Far",
+        "FileExtension": "mp3"
+    },
+    "SourceDataInfo": {
+        "SourceDataId": "S-211124_S_101_L_001_0001",
+        "FileExtension": "mp3",
+        "NoOfClip": 1,
+        "ClipDataLength(sec)": 40
+    },
+    "LabelDataInfo": {
+        "Path": "S-211124_S_101_L_001",
+        "LabelID": "S-211124_S_101_L_001_0001",
+        "NumAnnotator": 3,
+        "Division1": "S",
+        "Division2": "1",
+        "Class": "01",
+        "Desc": "소방서 구급 경보 사이렌 소리",
+        "Type": "SoundAnnotation",
+        "NumSegmentation": 1,
+        "Segmentations": [
+            [
+                11.2,
+                39.1
+            ]
+        ]
+    }
+}
