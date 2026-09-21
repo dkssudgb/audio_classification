@@ -2,6 +2,7 @@
 
 > 데이터 불균형 문제를 해결하고, **MFCC + SE-ResNet** 구조를 통해  
 > **Macro F1 / Recall 중심의 실질적인 성능 개선**을 달성한 음성 이벤트 분류 모델 및 Streamlit 데모입니다.
+> [Streamlit](https://audioclassification-py9hs2f2yzrv9g7qmdvbqr.streamlit.app/)
 
 ---
 
